@@ -1,5 +1,6 @@
 """
-TestCase sample which loads module from directory above
+load_upper_module() function and TestCase class
+which load module from directory above
 implementing the following directory structure:
   sample.py
   test/test_sample.py
